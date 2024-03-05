@@ -10,6 +10,7 @@ package Sensores;
  */
 public class SensorProxy {
     public void updateData(){
-        System.out.println("Reading.");
-    }
+        System.out.println("Updating...");
+        
+    }   
 }
